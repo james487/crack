@@ -1,6 +1,6 @@
 # Termux Coding 
 # WaY to generate link by shellphish 👇👇👇
-# 1.Before doing all ....first search shellphish
+# 1.Before doing all ....first search shellphish in a search engine.
 # 2.Then click the first link 
 # 3.Then click on the url entry field 
 # 4.And then copy it
